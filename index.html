@@ -23,11 +23,17 @@
 <h2>plano trimetral:3x de 95 R$</h2>
 <H2>plano semestral:6x de 90 R$</H2>
 
-var params = {
-    nome:''
-    reply_email:'soraiagames901@gmail.com',
-    mensagem:
-};
-emailjs.send('gmail','feedback', params);
+<script type ="text/javascript"
+              scr="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js">
+</script>
+<script type="text/javascript">
+    (function(){
+        emailjs.init({
+            publickey:"YOUR_PUBLIC_KEY",
+        });
+    })();
+    </script>
+    
+
 </body>
 </html>
