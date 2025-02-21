@@ -1,13 +1,13 @@
 body {
-  background-color: rgb(106, 228, 177);
+  background-color: rgb(124, 124, 124);
 }
 
 body {
-  background-color: rgb(198, 250, 198);
+  background-color: rgb(164, 168, 164);
 }
 
 h1 {
-  color: white;
+  color: rgb(0, 0, 0);
   text-align: center;
 }
 
@@ -17,15 +17,68 @@ p {
 }
 
 h2 {
-  color: darkseagreen;
+  color: rgb(0, 0, 0);
   text-align: center;
 }
 
 input {
-  color: darkolivegreen;
+  color: rgb(0, 0, 0);
   text-align: center;
 }
 
 .inscricao{
   text-align: center;
 }
+
+.button1{
+  text-align: center;
+}
+
+.button2{
+  text-align: center;
+}
+
+.button3{
+  text-align: center;
+}
+
+.button4{
+  text-align: center;
+}
+
+.button1 {
+  border: none;
+  border-radius: 40px;
+  color: white;
+  background-color: deepskyblue;
+  padding: 15px 32px;
+}
+
+.button2 {
+  border: none;
+  border-radius: 40px;
+  color: white;
+  background-color: deepskyblue;
+  padding: 15px 32px;
+}
+
+.button3 {
+  border: none;
+  border-radius: 40px;
+  color: white;
+  background-color: deepskyblue;
+  padding: 15px 32px;
+}
+
+.button4 {
+  border: none;
+  border-radius: 40px;
+  color: white;
+  background-color: deepskyblue;
+  padding: 15px 32px;
+}
+
+.planos{
+  text-align: center;
+}
+
