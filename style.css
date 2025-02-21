@@ -1,27 +1,31 @@
 body {
-    background-color: rgb(106, 228, 177);
-  }
+  background-color: rgb(106, 228, 177);
+}
 
-  body {
-    background-color: rgb(3, 54, 3);
-  }
-  
-  h1 {
-    color: white;
-    text-align: center;
-  }
-  
-  p {
-    font-family: verdana;
-    font-size: 20px;
-  }
+body {
+  background-color: rgb(198, 250, 198);
+}
 
-  h2 {
-    color: darkseagreen;
-    text-align: center;
-  }
+h1 {
+  color: white;
+  text-align: center;
+}
 
- input {
-    color: darkolivegreen;
-    text-align: center;
-  }
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+
+h2 {
+  color: darkseagreen;
+  text-align: center;
+}
+
+input {
+  color: darkolivegreen;
+  text-align: center;
+}
+
+.inscricao{
+  text-align: center;
+}
